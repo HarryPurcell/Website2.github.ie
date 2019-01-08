@@ -1,0 +1,191 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #f3f2f2;
+}
+.divider{
+    font-size: 20px;
+    color: #1d1d1d;
+    font-weight: 500;
+    margin-top: 10px;
+    
+}
+.img-fluid{
+    max-width: 80%;
+}
+.redhead {
+    background: #a6100a;
+    height: 20%;
+}
+.carouselInfo{
+    padding-left: 15px;
+}
+
+.mycarousel{
+    
+    background: white;
+    border-radius: 8px 8px 8px 8px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.mynav {
+    background-color: #b83232;
+}
+
+.icon {
+    min-width: 75%;
+    max-width: 75%;
+    margin: auto;
+    
+    
+    
+}
+
+.smallicon {
+    padding-top: 10px;
+    width: 30px;
+
+}
+
+.navtxt {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.navtxt:hover{
+    color: white;
+    
+}
+
+.navbtn:hover {
+    text-decoration-line: none;
+  transition: opacity .5s, background .5s;
+  background: violet;
+}
+.navbtn{
+    
+  transition: opacity .5s, background .5s;
+}
+
+
+
+/*Table*/
+
+.mytable{
+    background: white;
+    padding:15px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+.test{
+    width: 100%;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Cards*/
+
+.mycard {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    margin-top: 20px;
+}
+
+.mycard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.mycard_top {
+    border-radius: 8px 8px 0 0;
+}
+
+.mycard_bottom {
+    padding-top: 28px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-radius: 0px 0px 8px 8px;
+
+
+}
+
+.mycardcontent {
+    padding-left: 15px;
+    padding-top: 15px;
+
+}
+
+.mypng {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+
+}
+
+.primary_title {
+    font-size: 18px;
+    color: #1d1d1d;
+    font-weight: 500;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+.primary_title.carouseltxt{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.action {
+    padding-right: 28px;
+
+}
+
+.action:hover {
+    text-decoration-line: none;
+    color: violet;
+}
+
+.white {
+    color: white;
+
+}
+.mybutton:hover{
+    background: violet;
+}
+.mybutton{
+    background: #b83232;
+    
+}
+.secondary {
+    color: #656565;
+    font-size: 12px;
+    font-weight: 500;
+    padding-top: 0px;
+    margin-top: -3px;
+    margin-bottom: 0px;
+}
+
+a {
+    color: #b83232;
+}
+
